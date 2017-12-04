@@ -1,0 +1,20 @@
+{
+  "name": "speech_to_text",
+  "version": "1.0.0",
+  "description": "Converts Speech to text for processing by the application",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek1993c/speech_to_text.git"
+  },
+  "author": "Abhishek Chakraborty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek1993c/speech_to_text/issues"
+  },
+  "homepage": "https://github.com/abhishek1993c/speech_to_text#readme"
+}
